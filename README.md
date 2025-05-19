@@ -6,4 +6,4 @@ Hyperspectral image (HSI) classification with noisy labels has recently attracte
 
 Houston 2018 [link](https://github.com/YuxiangZhang-BIT/Data-CSHSI)
 
-Download Pavia University, and Pavia Center datasets [link](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
+Download Pavia University and Pavia Centre datasets [link](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
